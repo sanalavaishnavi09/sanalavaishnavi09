@@ -44,7 +44,7 @@ Supports **greedy & beam search decoding**, and provides **audio assistance** fo
 
 - GitHub: [@sanalavaishnavi09](https://github.com/sanalavaishnavi09)  
 - Email: **sanalavaishnavi2003@gmail.com**  
-- LinkedIn: [www.linkedin.com/in/sanala-vaishnavi-372275281](#) *(www.linkedin.com/in/sanala-vaishnavi-372275281)*  
+- LinkedIn: [www.linkedin.com/in/sanala-vaishnavi-372275281](#) 
 
 ---
 
