@@ -7,15 +7,15 @@
 
 ## 🚀 Projects
 
+### 🖼️ Audio Assistance-Based Image Captioning (2024–2025)  
+Implemented an **Image Captioning system** with **CNN + rLSTM**, using **InceptionV3 features** and **GloVe embeddings**.  
+Supports **greedy & beam search decoding**, and provides **audio assistance** for captions.
+
 ### 🗳️ Decentralized Voting System using Blockchain (2024)  
 A secure voting platform built with **Ethereum Smart Contracts** to ensure transparency and trust in elections.   
 
 ### 🎙️ Jarvis AI Voice Assistant (2021)  
 Created a **Windows-based AI assistant** for automation tasks like browsing, searching, and system operations.  
-
-### 🖼️ Audio Assistance-Based Image Captioning (2024–2025)  
-Implemented an **Image Captioning system** with **CNN + rLSTM**, using **InceptionV3 features** and **GloVe embeddings**.  
-Supports **greedy & beam search decoding**, and provides **audio assistance** for captions.  
 
 ---
 
