@@ -8,10 +8,7 @@
 ## 🚀 Projects
 
 ### 🗳️ Decentralized Voting System using Blockchain (2024)  
-A secure voting platform built with **Ethereum Smart Contracts** to ensure transparency and trust in elections.  
-
-### 🎭 Sentiment Analysis of Restaurant Reviews (2023)  
-Developed an **AI system with 85% accuracy** to analyze customer feedback and classify reviews as positive/negative.  
+A secure voting platform built with **Ethereum Smart Contracts** to ensure transparency and trust in elections.   
 
 ### 🎙️ Jarvis AI Voice Assistant (2021)  
 Created a **Windows-based AI assistant** for automation tasks like browsing, searching, and system operations.  
